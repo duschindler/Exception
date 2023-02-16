@@ -1,4 +1,4 @@
-package com.study;
+package com.study.exception;
 
 public class ParameterException extends Exception {
 
